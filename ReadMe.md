@@ -7,7 +7,7 @@ PMA Desktop: 绿色单文件的PhpMyAdmin桌面版1.0.0
 
 运行方式：
 
-下载 Release 中的 pma-desktop.exe 双击运行， 稍等片刻， 出来黑色的命令行窗口即可
+下载 Release 中的 pma-desktop.exe 双击运行， 稍等片刻（初次加载可能会有5-10秒延迟，请耐心等待）， 出来黑色的命令行窗口即可
 
 然后访问浏览器  localhost:88  即可看到熟悉的 phpmyadmin 界面
 
