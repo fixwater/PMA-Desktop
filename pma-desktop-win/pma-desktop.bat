@@ -1,0 +1,1 @@
+%TEMP%/pma-desktop/php.exe -S localhost:88 -t %TEMP%/pma-desktop/
