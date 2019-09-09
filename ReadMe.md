@@ -1,13 +1,20 @@
 PMA Desktop: 绿色单文件的PhpMyAdmin桌面版
 ==============================================
 
-目前仅支持Win，后续支持 Linux 和 Mac
+本软件为绿色单文件软件，目前仅支持Win，后续支持 Linux 和 Mac
 
-本软件为绿色单文件软件
+PMA DeskTop主页： <https://github.com/pubxun/PMA-Desktop>
 
 项目目标
 --
 不用配置PHP环境，使PhpMyAdmin更方便的被桌面用户使用，使其能与Navicat使用一样方便
+
+
+近期TODO
+--
+自动升级模块
+
+
 
 效果图：
 
